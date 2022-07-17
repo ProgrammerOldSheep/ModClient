@@ -1,0 +1,2 @@
+*本mod文件为开放1.18.1mod整合，请勿使用于商业
+mod依赖于minecraft1.18 +fabric + fabricAPI 使用之前请仔细阅读
